@@ -1,8 +1,6 @@
 
 Keterangan
 ==========
-```bash
-
 
 Install Docker Menggunakan Makefile
 -----------
