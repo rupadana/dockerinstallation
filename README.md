@@ -6,6 +6,7 @@ Install Docker Menggunakan Makefile
 -----------
 ```bash
 cd dockerinstallation
+sudo apt-get install build-essential
 sudo make run
 ```
 
